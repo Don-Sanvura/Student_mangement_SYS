@@ -1,4 +1,4 @@
-PRG282 Student Management System
+ Student Management System
 
 This application, making use of the C# language is designed to manage student records using git as our Distributed-Version-Control using the in-built features of Visual Studios and connecting the local repository to the remote repository on Github.
 This application provides functionalities to add, update, view and delete student record stored in three textfiles.
